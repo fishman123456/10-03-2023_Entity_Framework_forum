@@ -1,0 +1,26 @@
+﻿use Biblio
+alter database scoped configuration set identity_cache=off 
+
+CREATE TABLE Author
+(
+Id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+FirstName nVARCHAR(100) NOT NULL,
+LastName nVARCHAR(100) NOT NULL
+)
+CREATE TABLE Publisher
+(
+Id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+PublisherName nVARCHAR(100) NOT NULL,
+Address nVARCHAR(100) NOT NULL
+)
+CREATE TABLE Book
+(
+Id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+Title nVARCHAR(100) NOT NULL,
+IdAuthor INT NOT NULL FOREIGN KEY REFERENCES
+Author(Id),
+Pages INT,
+Price INT,
+IdPublisher INT NOT NULL FOREIGN KEY
+REFERENCES Publisher(Id)
+)

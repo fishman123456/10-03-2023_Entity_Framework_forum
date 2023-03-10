@@ -24,5 +24,37 @@ namespace _10_03_2023_Entity_Framework_forum
         {
             InitializeComponent();
         }
+
+        private void book_Click(object sender, RoutedEventArgs e)
+        {
+            Gr.ItemsSource = null;
+            using (BiblioEntities db = new BiblioEntities())
+            {
+                var data =db.Book.ToList();
+                Gr.ItemsSource = data;
+            }
+           
+        }
+
+        private void author_Click(object sender, RoutedEventArgs e)
+        {
+            Gr.ItemsSource = null;
+            using (BiblioEntities db = new BiblioEntities())
+            {
+                var data = db.Author.ToList();
+                Gr.ItemsSource = data;
+            }
+        }
+
+        private void publisher_Click(object sender, RoutedEventArgs e)
+        {
+            Gr.ItemsSource = null;
+            using (BiblioEntities db = new BiblioEntities())
+            {
+                var data = db.Publisher.ToList();
+                Gr.ItemsSource = data;
+            }
+
+        }
     }
 }
