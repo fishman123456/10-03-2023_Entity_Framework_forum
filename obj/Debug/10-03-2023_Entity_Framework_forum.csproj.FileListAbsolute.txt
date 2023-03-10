@@ -1,0 +1,16 @@
+C:\Users\profi\Documents\GitHub\10-03-2023_Entity_Framework_forum\bin\Debug\10-03-2023_Entity_Framework_forum.exe.config
+C:\Users\profi\Documents\GitHub\10-03-2023_Entity_Framework_forum\bin\Debug\10-03-2023_Entity_Framework_forum.exe
+C:\Users\profi\Documents\GitHub\10-03-2023_Entity_Framework_forum\bin\Debug\10-03-2023_Entity_Framework_forum.pdb
+C:\Users\profi\Documents\GitHub\10-03-2023_Entity_Framework_forum\obj\Debug\10-03-2023_Entity_Framework_forum.csproj.AssemblyReference.cache
+C:\Users\profi\Documents\GitHub\10-03-2023_Entity_Framework_forum\obj\Debug\10-03-2023_Entity_Framework_forum.csproj.SuggestedBindingRedirects.cache
+C:\Users\profi\Documents\GitHub\10-03-2023_Entity_Framework_forum\obj\Debug\MainWindow.g.cs
+C:\Users\profi\Documents\GitHub\10-03-2023_Entity_Framework_forum\obj\Debug\App.g.cs
+C:\Users\profi\Documents\GitHub\10-03-2023_Entity_Framework_forum\obj\Debug\10-03-2023_Entity_Framework_forum_MarkupCompile.cache
+C:\Users\profi\Documents\GitHub\10-03-2023_Entity_Framework_forum\obj\Debug\10-03-2023_Entity_Framework_forum_MarkupCompile.lref
+C:\Users\profi\Documents\GitHub\10-03-2023_Entity_Framework_forum\obj\Debug\MainWindow.baml
+C:\Users\profi\Documents\GitHub\10-03-2023_Entity_Framework_forum\obj\Debug\10-03-2023_Entity_Framework_forum.g.resources
+C:\Users\profi\Documents\GitHub\10-03-2023_Entity_Framework_forum\obj\Debug\_10_03_2023_Entity_Framework_forum.Properties.Resources.resources
+C:\Users\profi\Documents\GitHub\10-03-2023_Entity_Framework_forum\obj\Debug\10-03-2023_Entity_Framework_forum.csproj.GenerateResource.cache
+C:\Users\profi\Documents\GitHub\10-03-2023_Entity_Framework_forum\obj\Debug\10-03-2023_Entity_Framework_forum.csproj.CoreCompileInputs.cache
+C:\Users\profi\Documents\GitHub\10-03-2023_Entity_Framework_forum\obj\Debug\10-03-2023_Entity_Framework_forum.exe
+C:\Users\profi\Documents\GitHub\10-03-2023_Entity_Framework_forum\obj\Debug\10-03-2023_Entity_Framework_forum.pdb
