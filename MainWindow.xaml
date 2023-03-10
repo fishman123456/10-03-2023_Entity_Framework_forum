@@ -11,16 +11,17 @@
             <ColumnDefinition Width="200*"/>
             <ColumnDefinition Width="200*"/>
             <ColumnDefinition Width="200*"/>
+            <ColumnDefinition Width="200*"/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="300*"/>
             <RowDefinition Height="50*"/>
         </Grid.RowDefinitions>
-        <DataGrid Name="Gr" Grid.ColumnSpan="3" Margin="20" />
+        <DataGrid Name="Gr" Grid.ColumnSpan="4" Margin="20" />
         <Button Name="book" Grid.Column="0" Grid.Row="1" Content="Книги" Margin="5" FontSize="20" Click="book_Click"/>
         <Button Name="author" Grid.Column="1" Grid.Row="1" Content="Автор" Margin="5" FontSize="20" Click="author_Click"/>
         <Button Name="publisher" Grid.Column="2" Grid.Row="1" Content="Издательство" Margin="5" FontSize="20" Click="publisher_Click"/>
-
+        <Button Name="all" Grid.Column="3" Grid.Row="1" Content="Выводим всё" Margin="5" FontSize="20" Click="all_Click"/>
 
     </Grid>
 </Window>
